@@ -29,6 +29,8 @@ class Shop_datail extends Component {
     this.setState({
       x:!this.state.x
     })
+    var x=document.querySelector('.rewiew')
+     x.classList.toggle("minhthao")
   }
   componentDidMount() {
     axios({

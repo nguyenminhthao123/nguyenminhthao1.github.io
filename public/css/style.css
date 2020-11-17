@@ -896,6 +896,12 @@ span.rewiew {
   color: white;
   cursor: pointer;
 }
+span.minhthao {
+  background-color: red;
+  padding: 27px;
+  color: white;
+  cursor: pointer;
+}
 span.evaluate {
   
   background-color: rgb(206, 178, 178);
@@ -7719,5 +7725,8 @@ Modal CSS
 .productsQuickView .modal-content .product-content .products-share .social li a.instagram:hover, .productsQuickView .modal-content .product-content .products-share .social li a.instagram:focus {
   color: #c13584;
   background-color: transparent;
+}
+.minhthao{
+  background-color: red;
 }
 /*# sourceMappingURL=style.css.map */
